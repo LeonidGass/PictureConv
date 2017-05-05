@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\дз-1_2\основы прогр\labs_proga\lab3_picturechsize_(cs50)\lab3_picturechsize_(cs50)\main.cpp(8): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+e:\дз-1_2\основы прогр\labs_proga\lab3_picturechsize_(cs50)\lab3_picturechsize_(cs50)\main.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+e:\дз-1_2\основы прогр\labs_proga\lab3_picturechsize_(cs50)\lab3_picturechsize_(cs50)\main.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+  Lab3_PictureChSize_(cs50).vcxproj -> E:\Дз-1_2\Основы прогр\Labs_Proga\Lab3_PictureChSize_(cs50)\Debug\Lab3_PictureChSize_(cs50).exe
+  Lab3_PictureChSize_(cs50).vcxproj -> E:\Дз-1_2\Основы прогр\Labs_Proga\Lab3_PictureChSize_(cs50)\Debug\Lab3_PictureChSize_(cs50).pdb (Partial PDB)
